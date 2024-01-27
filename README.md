@@ -16,10 +16,10 @@ How my code works:
 2. Joins data in one big table.
 3. Looks for odds which are too high.
 4. Prints result.
-5. I automated it. It run in background and also place bets.
+5. I automated it. It runs in background and also it can place bets.
 
 On paper all is cool and dandy until you find out that Bookmakers have ways to screw you.
-1. Coming up with an excuse and they just give you back your money instead of paying you money you won.
+1. Coming up with an excuse so they just give you back your money instead of paying you your winnings.
 2. Limit your betting.
 3. Ban you completely.
 4. Misleading team names. You can bet on regular teams with one bookmaker and youth teams at another.
